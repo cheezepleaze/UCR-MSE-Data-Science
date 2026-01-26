@@ -10,3 +10,6 @@ The goal of this repository is to document and track my progress, showcase skill
 - PHYS 247: Introduction to Applied Data Science
 - ENGR 203: Principles of Engineering Management
 - ENGR 296A: Professional Project Design
+### Winter 2026:
+- PHYS 243: Foundations of Applied Machine Learning
+- ENGR 201: Technology, Innovation, and Strategy for Engineers
