@@ -13,3 +13,11 @@ The goal of this repository is to document and track my progress, showcase skill
 ### Winter 2026:
 - PHYS 243: Foundations of Applied Machine Learning
 - ENGR 201: Technology, Innovation, and Strategy for Engineers
+### Spring 2026:
+- CS 235: Data Mining Techniques
+- ENGR 200: Engineering in the Global Environment
+- ENGR 296B: Professional Project Design
+### Summer 2026:
+- ENGR 202: Introduction to Systems Engineering
+### Fall 2026:
+- STAT 206: Statistical Computing
